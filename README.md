@@ -1,7 +1,7 @@
 # My first website build completely on HTML🔥
 
 \
-\
+
 
 ### I am writing this README in 2021, 3 months after I started learning web development and I'm so glad that I choose to learn Web Development.🙌
 
